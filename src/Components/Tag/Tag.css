@@ -1,0 +1,23 @@
+.date-tag {
+  font-size: 12px;
+  background-color: #5c5c5c;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 15px;
+}
+
+.owner-tag {
+  background-color: #8c8c8c;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 15px;
+  font-size: 12px;
+}
+
+.team-tag {
+  background-color: #666;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 15px;
+  font-size: 12px;
+}
